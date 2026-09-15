@@ -2,6 +2,16 @@
 
 A production-focused, mobile-friendly mortgage repayment calculator for offset-account mortgages.
 
+## Screenshots
+
+### Desktop
+
+![Desktop screenshot of the mortgage repayment calculator](docs/screenshots/calculator-desktop.png)
+
+### Mobile
+
+![Mobile screenshot of the mortgage repayment calculator](docs/screenshots/calculator-mobile.png)
+
 ## Features
 
 - Inputs for mortgage balance, offset balance, annual interest rate, and minimum monthly repayment
